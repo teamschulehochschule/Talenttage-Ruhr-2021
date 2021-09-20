@@ -1,4 +1,4 @@
-# WorkAdventure TTR Map Starter Kit
+# WorkAdventure Talenttage Ruhr 2021
 
 This is a sarter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
